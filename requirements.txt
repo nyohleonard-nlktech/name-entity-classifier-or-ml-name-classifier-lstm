@@ -4,3 +4,5 @@ tensorflow
 numpy
 scikit-learn
 pydantic
+
+streamlit
